@@ -1,5 +1,10 @@
 # Laravel development environment using laradock
 
+##  Requirements
+- Git
+- Docker
+- Docker-Compose
+
 ##  To run this project
 
 Init laradock as submodule:
