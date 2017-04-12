@@ -1,4 +1,4 @@
-# Docker for Laravel development environment using laradock
+# Laravel development environment using laradock
 
 ##  To run this project
 
@@ -12,6 +12,7 @@ Start development docker:
 ```
 cd laradock && docker-compose up -d nginx mysql redis
 ```
+> (doc laradock)[http://laradock.io/documentation/].
 
 If necessary change permission on storage folder:
 
